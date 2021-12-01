@@ -1,0 +1,19 @@
+{
+  "name": "appclienteservidor",
+  "version": "1.0.0",
+  "description": "api cliente servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cliente",
+    "servidor",
+    "modelo"
+  ],
+  "author": "Ronald Brito",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
