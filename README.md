@@ -1,6 +1,6 @@
 # Api-Client-Server
 
-# Rick and Morty Data
+<b> Rick and Morty Data </b>
 
 |id |Name                     |Status |Species|
 |---|-------------------------|-------|-------|
